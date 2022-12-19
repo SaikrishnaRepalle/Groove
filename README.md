@@ -38,10 +38,39 @@ Internet, Smartphones,are required. Small towns might have network issue.
 
 -----
 ### Cross Channels
-IOS
+Ios
+
 -----
 ### Competitors
 Amazon, Walmart, Facebook Marketplace, Blackmarket, Poshmark, Ebay.
+
+-----
+
+### Qualitative Analysis
+
+I interviewed them using Zoom to do video and phone interviews. I had the opportunity to speak with 9 people and learn about their problems and motivations.
+
+Here are some general questions I asked during the interactions:
+Q1. Which phone do you use most? 
+Q2. Where do you go if you want to buy used item? 
+Q3. What if you had the opportunity to sell your used item? 
+Q4. Which method do you favor to sell online or offline? 
+Q5. Which digital processes do you prefer? 
+Q6. How would you sum up the features you seek in an app? 
+Q7. Do you want to scan your used item for augmented reality?
+Q8. What aspects would encourage you to return again and again? 
+Q9. Can you give examples of either good or bad app experiences you've had? 
+Q10. Can you tell me how this app could help you more?
+
+----
+
+### Quantitative analysist
+
+I conducted an online poll using Type Forms to see if there was any resemblance in what potential consumers wanted. The poll received 33+ responses, which helped us outline the problem accurately.
+
+The Type Form I created for the user research is provided below.
+
+### Analysis of the Responses Recieved
 
 
 
@@ -54,7 +83,7 @@ Amazon, Walmart, Facebook Marketplace, Blackmarket, Poshmark, Ebay.
 
 https://www.figma.com/proto/7neyWsYJtwrIl6OeXPKSeH/HEMA_SAIKRISHNA_REPALLE---HCID_MIDTERM_V2?page-id=108%3A1856&node-id=112%3A10&viewport=529%2C176%2C0.04&scaling=scale-down&starting-point-node-id=112%3A10&show-proto-sidebar=1
 
-\
+
 
 Links
 -----
