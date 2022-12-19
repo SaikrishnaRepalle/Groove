@@ -18,3 +18,16 @@ Install the package through the Package Manager [using the Git URL](https://docs
 
 This repository uses [Git LFS](https://git-lfs.github.com/) so make sure you have LFS installed to get all the files. Unfortunately this means that the large files are also not included in the "Download ZIP" option on GitHub, and the example head model, among other assets, will be missing.
 
+### User Survey
+
+I originally had the idea to create a dream tour of AR, but after speaking with several people, I got to know that most people have trouble with their online shopping, especially when they are buying used products. As a result, they end up being loss with their purchases.
+
+### Problem Statement
+Here, my audience bought a used product from an internet store that in offers deals, but they don't know the conditions correctly.
+
+He was disappointed when the item was delivered to him.
+
+### Problem Statement
+
+Therefore, we can now scan products in 3D so that customers may view the condition accurately in AR view.
+
