@@ -27,7 +27,6 @@ Here, my audience bought a used product from an internet store that in offers de
 
 He was disappointed when the item was delivered to him.
 
-### Problem Statement
 
 Therefore, we can now scan products in 3D so that customers may view the condition accurately in AR view.
 
