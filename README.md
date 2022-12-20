@@ -108,15 +108,11 @@ https://www.figma.com/proto/7neyWsYJtwrIl6OeXPKSeH/HEMA_SAIKRISHNA_REPALLE---HCI
 
 
 
-Links
+Package Links
 -----
 
-Home page:      https://meld.app/
-
-Documentation:  https://meld.app/help/
-
-Wiki:           https://wiki.gnome.org/Apps/Meld
-
+3D Object: 
+Documentation: 
 
 
 Thanks
