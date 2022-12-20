@@ -70,9 +70,32 @@ I conducted an online poll using Type Forms to see if there was any resemblanc
 
 The Type Form I created for the user research is provided below.
 
-### Analysis of the Responses Recieved
 
+### Insights
 
+```
+I tried to order a used item, but the photos were brand new.
+```
+
+```
+I must compare prices in AR side by side.
+```
+
+```
+When ordering used goods, I'm very concerned about the condition.
+```
+
+```
+Being concerned about stolen used goods
+```
+
+```
+Worry about having all my details stolen.
+```
+
+```
+I ordered one item and received a different one in a different color.
+```
 
 
 
