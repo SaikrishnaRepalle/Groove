@@ -66,6 +66,10 @@ Here are some general questions I asked during the interactions:
 9. Can you give examples of either good or bad app experiences you've had?
 10. Can you tell me how this app could help you more?
 
+<p  align="center">
+<img height="550"src="https://github.com/SaikrishnaRepalle/Groove/blob/main/competetive.png">
+</p>
+
 ----
 
 ### Quantitative analysist
