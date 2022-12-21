@@ -100,7 +100,7 @@ The Type Form I created for the user research is provided below.
 ### 📲 Prototype
 
 <p align="center">
-  <img width="700" align="center" src="https://github.com/SaikrishnaRepalle/Groove/blob/main/giphy.gif" alt="demo"/>
+  <img width="700" align="center" src="https://github.com/SaikrishnaRepalle/Groove/blob/main/giphy%20(1).gif" alt="Prototype"/>
 </p>
 
 
