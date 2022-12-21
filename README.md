@@ -1,4 +1,7 @@
-<h1 align="center">Groove</h1>
+<p align="center">
+<img width ="24" src="https://github.com/SaikrishnaRepalle/Groove/blob/main/ar.svg">
+<h1 align="center"> Groove</h1>
+</P>
 
 ## 📊 User Survey
 I originally had the idea to create a dream tour of AR, but after speaking with several people, I got to know that most people have trouble with their online shopping, especially when they are buying used products. As a result, they end up being loss with their purchases.
