@@ -79,7 +79,7 @@ I conducted an online poll using Type Forms to see if there was any resemblanc
 The Type Form I created for the user research is provided below.
 
 
-### Insights
+### ⭐️ Insights
 
 
 - I tried to order a used item, but the photos were brand new.
@@ -97,7 +97,7 @@ The Type Form I created for the user research is provided below.
 
 
 
-### Prototype
+### 📲 Prototype
 
 <p align="center">
   <img width="700" align="center" src="https://github.com/SaikrishnaRepalle/Groove/blob/main/giphy.gif" alt="demo"/>
