@@ -24,36 +24,34 @@ Therefore, we can now scan products in 3D so that customers may view the conditi
 This project is all about making used items to sell. Users can buy of their choice. In addition to that, they can also get AR view and information at the same time. Moreover, they can freely.
 
 
-## Target Audience
+## 🎯 Target Audience
 Working professionals, students, Housewifes, basically all the active book readers, and bibliophiles. It also covers kids and teenagers who love to read fantasy stories or comics.
 #### Gender:
-
- Male, Female, Transgender 
+>Male, Female, Transgender 
 #### Profession:
-Working & Non-working both
+>Working & Non-working both
 #### Age groups:
-
-Working & Non-working both
-
+>Working & Non-working both
 
 
+---
 
-### Technology Constraints 
+### 📡 Technology Constraints 
 Internet, Smartphones,are required. Small towns might have network issue.
 
 
-### Cross Channels
+###  Cross Channels
 Ios
 
 
-### Competitors
+### 🆚 Competitors
 Amazon, Walmart, Facebook Marketplace, Blackmarket, Poshmark, Ebay.
 
+---
 
+### 📈 Qualitative Analysis
 
-### Qualitative Analysis
-
-I interviewed them using Zoom to do video and phone interviews. I had the opportunity to speak with 9 people and learn about their problems and motivations.
+>I interviewed them using Zoom to do video and phone interviews. I had the opportunity to speak with 9 people and learn about their problems and  motivations.
 
 Here are some general questions I asked during the interactions:
 
