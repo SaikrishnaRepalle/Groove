@@ -28,50 +28,45 @@ This project is all about making used items to sell. Users can buy of their choi
 Working professionals, students, Housewifes, basically all the active book readers, and bibliophiles. It also covers kids and teenagers who love to read fantasy stories or comics.
 #### Gender:
 
-```
  Male, Female, Transgender 
-```
 #### Profession:
-```
 Working & Non-working both
-```
 #### Age groups:
 
-```
 Working & Non-working both
-```
 
 
 
------
+
 ### Technology Constraints 
 Internet, Smartphones,are required. Small towns might have network issue.
 
------
+
 ### Cross Channels
 Ios
 
------
+
 ### Competitors
 Amazon, Walmart, Facebook Marketplace, Blackmarket, Poshmark, Ebay.
 
------
+
 
 ### Qualitative Analysis
 
 I interviewed them using Zoom to do video and phone interviews. I had the opportunity to speak with 9 people and learn about their problems and motivations.
 
 Here are some general questions I asked during the interactions:
-Q1. Which phone do you use most? 
-Q2. Where do you go if you want to buy used item? 
-Q3. What if you had the opportunity to sell your used item? 
-Q4. Which method do you favor to sell online or offline? 
-Q5. Which digital processes do you prefer? 
-Q6. How would you sum up the features you seek in an app? 
-Q7. Do you want to scan your used item for augmented reality?
-Q8. What aspects would encourage you to return again and again? 
-Q9. Can you give examples of either good or bad app experiences you've had? 
-Q10. Can you tell me how this app could help you more?
+
+1. Which phone do you use most?
+2. Where do you go if you want to buy used item?
+3. What if you had the opportunity to sell your used item?
+4. Which method do you favor to sell online or offline?
+5. Which digital processes do you prefer?
+6. How would you sum up the features you seek in an app?
+7. Do you want to scan your used item for augmented reality?
+8. What aspects would encourage you to return again and again?
+9. Can you give examples of either good or bad app experiences you've had?
+10. Can you tell me how this app could help you more?
 
 ----
 
@@ -85,26 +80,17 @@ The Type Form I created for the user research is provided below.
 ### Insights
 
 
-I tried to order a used item, but the photos were brand new.
+- I tried to order a used item, but the photos were brand new.
 
+- I must compare prices in AR side by side.
 
-I must compare prices in AR side by side.
+- When ordering used goods, I'm very concerned about the condition.
 
-When ordering used goods, I'm very concerned about the condition.
+- Being concerned about stolen used goods
 
+- Worry about having all my details stolen.
 
-Being concerned about stolen used goods
-
-
-
-Worry about having all my details stolen.
-
-
-
-I ordered one item and received a different one in a different color.
-
-
-
+- I ordered one item and received a different one in a different color.
 
 
 
