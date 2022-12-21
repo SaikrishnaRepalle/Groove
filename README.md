@@ -118,6 +118,7 @@ The Type Form I created for the user research is provided below.
 3D Object: 
 Documentation: 
 
-
-Thanks
-Krishna
+<p align="center">
+### Thanks<br
+### Krishna
+  </p>
