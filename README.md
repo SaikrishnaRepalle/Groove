@@ -1,35 +1,46 @@
 <h1 align="center">Groove</h1>
 
 ## 📊 User Survey
+I originally had the idea to create a dream tour of AR, but after speaking with several people, I got to know that most people have trouble with their online shopping, especially when they are buying used products. As a result, they end up being loss with their purchases.
 
-> I originally had the idea to create a dream tour of AR, but after speaking with several people, I got to know that most people have trouble with their online shopping, especially when they are buying used products. As a result, they end up being loss with their purchases.
-
-
+###   
 
 ## 📝 Problem Statement
-Here, my audience bought a used product from an internet store that in offers deals, but they don't know the conditions correctly.
+Here, my audience bought a used product from an internet store that in offers deals, but they don't know the conditions correctly.<br > He was disappointed when the item was delivered to him.
 
-He was disappointed when the item was delivered to him.
-
-
+<p  align="center">
+<img width="450"src="https://github.com/SaikrishnaRepalle/Groove/blob/main/problem.png">
+</p>
 
 ## 💡 Prossible solution
 Therefore, we can now scan products in 3D so that customers may view the condition accurately in AR view.
 
------
+<p  align="center">
+<img height="550"src="https://github.com/SaikrishnaRepalle/Groove/blob/main/Ar app.png">
+</p>
+
 
 ##  Executive Intent
 This project is all about making used items to sell. Users can buy of their choice. In addition to that, they can also get AR view and information at the same time. Moreover, they can freely.
 
------
-### Target Audience
+
+## Target Audience
 Working professionals, students, Housewifes, basically all the active book readers, and bibliophiles. It also covers kids and teenagers who love to read fantasy stories or comics.
-### Gender:
+#### Gender:
+
+```
  Male, Female, Transgender 
-### Profession:
+```
+#### Profession:
+```
 Working & Non-working both
-### Age groups:
+```
+#### Age groups:
+
+```
 Working & Non-working both
+```
+
 
 
 -----
@@ -73,29 +84,25 @@ The Type Form I created for the user research is provided below.
 
 ### Insights
 
-```
+
 I tried to order a used item, but the photos were brand new.
-```
 
-```
+
 I must compare prices in AR side by side.
-```
 
-```
 When ordering used goods, I'm very concerned about the condition.
-```
 
-```
+
 Being concerned about stolen used goods
-```
 
-```
+
+
 Worry about having all my details stolen.
-```
 
-```
+
+
 I ordered one item and received a different one in a different color.
-```
+
 
 
 
