@@ -104,8 +104,9 @@ I ordered one item and received a different one in a different color.
 
 ### Prototype
 
-https://www.figma.com/proto/7neyWsYJtwrIl6OeXPKSeH/HEMA_SAIKRISHNA_REPALLE---HCID_MIDTERM_V2?page-id=108%3A1856&node-id=112%3A10&viewport=529%2C176%2C0.04&scaling=scale-down&starting-point-node-id=112%3A10&show-proto-sidebar=1
-
+<p align="center">
+  <img width="700" align="center" src="https://user-images.githubusercontent.com/9840435/60266022-72a82400-98e7-11e9-9958-f9004c2f97e1.gif" alt="demo"/>
+</p>
 
 
 Package Links
