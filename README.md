@@ -102,21 +102,24 @@ The Type Form I created for the user research is provided below.
 
 ### 📲 Prototype
 
-<p align="center">
-  <img width="700" align="center" src="https://github.com/SaikrishnaRepalle/Groove/blob/main/giphy%20(1).gif" alt="Prototype"/>
+<p  align="center">
+<img height="550"src="https://github.com/SaikrishnaRepalle/Groove/blob/main/Home.png">
 </p>
+
+
+https://www.figma.com/proto/7neyWsYJtwrIl6OeXPKSeH/HEMA_SAIKRISHNA_REPALLE---HCID_MIDTERM_V2?page-id=108%3A1856&node-id=112%3A10&viewport=325%2C169%2C0.07&scaling=scale-down&starting-point-node-id=112%3A10&show-proto-sidebar=1
+
+
+
+-----
 
 
 ### Slides
 
-<a href="link">
-  <img src=" ds" alt="ikkada image add chesko click cheste ppt open ayyela"> Link
-</a>  
+https://drive.google.com/file/d/1TX6dGkPIWhvhB3rRyVG1vwtBpwynAzrI/view?usp=sharing
 
 -----
 
-3D Object: 
-Documentation: 
 
 Thanks
 Krishna
